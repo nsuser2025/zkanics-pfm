@@ -8,7 +8,7 @@ import os
 
 markdown_contents = {}
 note_paths = {
-    "basic_flow": "BASIC/flow.md",
+    "basic_intro": "BASIC/intro.md",
 }
 
 for key, path in note_paths.items():

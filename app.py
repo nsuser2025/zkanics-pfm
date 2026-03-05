@@ -8,12 +8,7 @@ import os
 
 markdown_contents = {}
 note_paths = {
-    "mdpd_fundamental": "MDPD/mdpd_fundamental.md",
-    "other_dpds": "MDPD/other_dpds.md",
-    "trimesh_cylinder": "MESH2LAMMPS/trimesh_cylinder.md",
-    "trimesh": "MESH2LAMMPS/trimesh.md",
-    "mesh2lammps": "MESH2LAMMPS/mesh2lammps.md",
-    "mdpd_refs": "MDPD/refs.md",
+    "basic_flow": "BASIC/flow.md",
 }
 
 for key, path in note_paths.items():
